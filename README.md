@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 ¡Hola! Somos **Escuela Mobile**  
 
-<!--
-**EscuelaMobile/EscuelaMobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido/a al perfil oficial de **Escuela Mobile** en GitHub.  
+Aquí encontrarás ejemplos, proyectos y recursos gratuitos para aprender **desarrollo Android moderno** con **Kotlin** y **Jetpack Compose** de manera clara y sencilla.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 ¿Qué hacemos?
+- Tutoriales paso a paso para Android con Kotlin y Jetpack Compose  
+- Ejemplos de buenas prácticas y patrones de arquitectura (MVVM, Clean Architecture…)  
+- Recursos para desarrolladores/as que quieren mejorar sus apps móviles  
+
+---
+
+## 🚀 Nuestra misión
+Ayudar a que más personas aprendan **desarrollo móvil** sin complicaciones, con proyectos reales y explicaciones simples.
+
+---
+
+## 🔗 Encuéntranos también en:
+- 📺 [YouTube – Escuela Mobile](https://www.youtube.com/)  
+- 🌐 [Blog – Escuela Mobile](https://www.escuelamobile.com)  
+- 🐦 [Twitter/X](https://twitter.com/)  
+- 📧 Contacto: **tu_correo@escuelamobile.com**  
+
+---
+
+## 📝 Cómo usar este repositorio
+- Mira los ejemplos y descárgalos libremente
+- Propón mejoras a través de issues o pull requests
+- Únete a la comunidad: deja tus comentarios en YouTube o el blog  
+
+---
+
+> _Mobile, explicado fácil._  
