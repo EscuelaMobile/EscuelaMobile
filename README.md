@@ -18,10 +18,10 @@ Ayudar a que más personas aprendan **desarrollo móvil** sin complicaciones, co
 ---
 
 ## 🔗 Encuéntranos también en:
-- 📺 [YouTube – Escuela Mobile](https://www.youtube.com/)  
+- 📺 [YouTube – Escuela Mobile](https://www.youtube.com/@EscuelaMobile)  
 - 🌐 [Blog – Escuela Mobile](https://www.escuelamobile.com)  
-- 🐦 [Twitter/X](https://twitter.com/)  
-- 📧 Contacto: **tu_correo@escuelamobile.com**  
+- 🐦 [Twitter/X](https://twitter.com/@EscuelaMobile)  
+- 📧 Contacto: **contacto@escuelamobile.com**  
 
 ---
 
