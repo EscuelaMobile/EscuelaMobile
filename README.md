@@ -20,7 +20,7 @@ Ayudar a que más personas aprendan **desarrollo móvil** sin complicaciones, co
 ## 🔗 Encuéntranos también en:
 - 📺 [YouTube – Escuela Mobile](https://www.youtube.com/@EscuelaMobile)  
 - 🌐 [Blog – Escuela Mobile](https://www.escuelamobile.com)  
-- 🐦 [Twitter/X](https://twitter.com/@EscuelaMobile)  
+- 🐦 [Twitter/@EscuelaMobile](https://twitter.com/@EscuelaMobile)  
 - 📧 Contacto: **contacto@escuelamobile.com**  
 
 ---
